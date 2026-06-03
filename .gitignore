@@ -1,0 +1,39 @@
+# Build outputs
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+.temp/
+
+# Compiled binaries and objects
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+
+# Debug and coverage files
+*.pdb
+*.ilk
+*.gcda
+*.gcno
+*.gcov
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Editor and OS noise
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
