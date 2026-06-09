@@ -7,6 +7,7 @@ obj/
 .temp/
 
 # Compiled binaries and objects
+*.class
 *.exe
 *.dll
 *.so
@@ -33,6 +34,9 @@ compile_commands.json
 .vscode/
 .vs/
 .idea/
+.clang-format
+.classpath
+.project
 *.swp
 *.swo
 Thumbs.db
